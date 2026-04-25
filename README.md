@@ -2,14 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Pratyaksh%20Soni&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Pratyaksh Soni</h1>
+<h1 align="center">HEY 👋, I' AM PRATYAKSH SONI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Future+Google+Engineer;Building+Real+World+AI+Projects;DSA+Daily+Grind;Open+to+Internships" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratyakshsoni&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
 </p>
 
 ---
@@ -101,14 +97,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratyakshsoni&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=pratyakshsoni&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyakshsoni&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
