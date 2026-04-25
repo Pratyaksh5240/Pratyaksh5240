@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Pratyaksh%20Soni&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Open%20to%20Internships%20🚀&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Pratyaksh%20Soni&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Pratyaksh Soni</h1>
@@ -147,14 +147,6 @@
   <a href="https://leetcode.com/u/pratyaksh_soni00/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratyakshsoni/pratyakshsoni/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
