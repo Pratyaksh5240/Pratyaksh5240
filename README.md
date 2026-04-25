@@ -63,7 +63,7 @@
 ## 🔥 Featured Projects
 
 ### 🤖 RoboDoctor AI
-- Built an **AI-powered medical assistant** with X-ray analysis + chatbot  
+- Built an **AI-powered medical assistant**   
 - Applied ML for **medical image understanding**  
 - Focused on **real-world healthcare use case**  
 
@@ -72,7 +72,8 @@
 ### 🩻 Radiology AI App
 - Developed system for **detecting X-ray abnormalities**  
 - Used **computer vision + deep learning**  
-- Designed for **fast diagnostic support**  
+- Designed for **fast diagnostic support**
+- Still working on it.
 
 ---
 
