@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Pratyaksh%20Soni&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PRATYAKSH%20SONI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Open%20to%20Internships&descAlignY=65&descSize=20" />
 </p>
 
 <h1 align="center">HEY 👋, I' AM PRATYAKSH SONI</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Future+Google+Engineer;Building+Real+World+AI+Projects;DSA+Daily+Grind;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Future+Google+Engineer;Building+Real+World+AI+Projects;DSA+Daily+Grind;Open+to+Internships" />
 </p>
 
 ---
@@ -27,11 +27,11 @@
 
 ## 🎯 Target: Google-Level AI Engineer
 
-- 🧩 Solving **DSA problems daily** (focused on problem-solving depth)
-- 🧠 Building **end-to-end AI systems (not just models)**
-- ⚙️ Learning **system design & scalable architectures**
-- 📊 Focusing on **real-world impact projects**
-- 🚀 Preparing for **top-tier tech internships (Google, etc.)**
+- 🧩 Solving **DSA problems daily**  
+- 🧠 Building **end-to-end AI systems**  
+- ⚙️ Learning **system design & scalable architectures**  
+- 📊 Creating **impact-driven projects**  
+- 🚀 Preparing for **top-tier tech internships**
 
 ---
 
@@ -64,31 +64,27 @@
 
 ### 🤖 RoboDoctor AI
 - Built an **AI-powered medical assistant** with X-ray analysis + chatbot  
-- Integrated ML models for **medical image understanding**  
-- Focused on **real-world healthcare application**  
-- Tech: Python, TensorFlow, APIs  
+- Applied ML for **medical image understanding**  
+- Focused on **real-world healthcare use case**  
 
 ---
 
 ### 🩻 Radiology AI App
-- Developed a system for **detecting abnormalities in X-rays**  
-- Applied **computer vision & deep learning techniques**  
-- Designed for **fast preliminary medical insights**  
-- Tech: Python, TensorFlow, CV  
+- Developed system for **detecting X-ray abnormalities**  
+- Used **computer vision + deep learning**  
+- Designed for **fast diagnostic support**  
 
 ---
 
 ### 🕵️ VeriLense
-- Created an **AI-based fake content detection system**  
-- Used NLP techniques for **content verification**  
-- Tech: Python, NLP, ML  
+- Built **fake content detection system**  
+- Applied **NLP techniques for verification**  
 
 ---
 
 ### 🚨 Fake Account Detector
-- Built ML model to **detect suspicious social media accounts**  
-- Performed **data analysis & feature engineering**  
-- Tech: Python, Pandas, NumPy, Scikit-learn  
+- ML model to **detect suspicious accounts**  
+- Used **data analysis & feature engineering**  
 
 ---
 
@@ -102,9 +98,9 @@
 ---
 
 ## 🎯 Current Focus
-- 📌 Data Structures & Algorithms  
-- 📌 Machine Learning & Deep Learning  
-- 📌 Building scalable AI projects  
+- 📌 DSA  
+- 📌 Machine Learning  
+- 📌 AI Projects  
 
 ---
 
@@ -117,11 +113,11 @@
 <p align="center">
   📌 Advanced DSA <br>
   📌 Deep Learning <br>
-  📌 System Design Basics <br>
+  📌 System Design  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+DSA+Daily;Exploring+Deep+Learning;Building+AI+Projects;Preparing+for+Top+Tech+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+DSA+Daily;Exploring+Deep+Learning;Building+AI+Projects;Preparing+for+Top+Tech+Internships" />
 </p>
 
 ---
@@ -130,10 +126,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyaksh-soni-614b8a348">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/pratyaksh_soni00/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
