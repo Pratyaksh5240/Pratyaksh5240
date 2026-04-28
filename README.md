@@ -69,7 +69,7 @@
 
 ---
 
-### 🩻 Radiology AI App
+### 🩻 Radiology AI App(Working on it)
 - Developed system for **detecting X-ray abnormalities**  
 - Used **computer vision + deep learning**  
 - Designed for **fast diagnostic support**
